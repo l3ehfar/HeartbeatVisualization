@@ -8,7 +8,7 @@ This project is followed by a research on Piezo Electric Device, a research assi
 
 then I'd made a handemade Piezo device which have been used in two interactive projects. I simply get electric signals which had been converted from mechanical energy with this device and used it as an input for my interactive projects. 
 
-[Piezo electric device](https://github.com/l3ehfar/HeartbeatVisualization/blob/main/image/20191214_123213.jpg)
+![Piezo electric device](https://github.com/l3ehfar/HeartbeatVisualization/blob/main/image/20191214_123213.jpg)
 
 The so-called Heartbeat Visualization project is a visualization of my bestfriend's heartbeat. 
 you can watch it here:  (once click on the screen and Do not forget to increase your volume.)
